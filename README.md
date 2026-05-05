@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> نار الشوق تحرقني في كل ليلة
+> وعيوني تبحث عنك في كل حيلة
+> يا سحر الليل خذني إلى أحضانها
+> دعني أضيع في عطر ألوانها
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
