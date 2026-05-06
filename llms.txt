@@ -10,9 +10,10 @@
 |-------|---------|
 | Title | Salamak Beyerfazni |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 20, 2026 |
+| Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/salamak-beyerfazni/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Obtain a Music License for Salamak Beyerfazni](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
